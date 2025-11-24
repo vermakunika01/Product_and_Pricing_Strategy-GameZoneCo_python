@@ -21,14 +21,14 @@ GameZone Co. is an e-commerce gaming company. We are solving one key Business Pr
   - The **portfolio and pricing** teams: by uncovering product and country-level opportunities for targeted strategy
 
  
-## Key Business Insights:
+## Key Business Insights
 **_Insights and related recommendations for the way forward have been added to the uploaded summary file_**
 - Fridays seem the **prime day of maximum customer activity**, suggesting marketing campaign and offer timelines to be planned accordingly
 - Direct marketing drives top product revenue; **social media remains underleveraged**.
 - Striking the **right balance between volume vs price value is important** – the current contrast between the variables gives key insights into pricing strategies
 - Only 37% of the 150 countries have explored more than 4 products while the **portfolio remains under-explored in more than half of the countries**. This highlights the scope of expanding portfolio coverage
 
-## Approach used for the analaysis: 
+## Approach used for the analaysis
 - Understanding and conceptualising the data
 - Data Cleaning and Preparation (a log file was created for the same):
     - Evaluated the consistency of the dataset
@@ -39,7 +39,7 @@ GameZone Co. is an e-commerce gaming company. We are solving one key Business Pr
 - Visualization of Insights (Python: matplotlib, seaborn)
 - Final Storylining for clear business impact
 
-## Learnings from the Project: 
+## Learnings from the Project
 - Identifying the **grain of the dataset** is a crucial step before beginning any work on the project - it not only helps you clean the data well but also fine tunes the analysis approach.
 - Before deep diving into the analysis, real work begins with:
   - translating the problem statement into **business impact, opportunities, and risks** (if the problem is not addressed)
@@ -48,7 +48,7 @@ GameZone Co. is an e-commerce gaming company. We are solving one key Business Pr
 - **Time series analysis** of this data could help us solve problems like declining sales, changes in customer behaviours over time, etc. However, since the given problem required root-cause analysis of the current state, analysis of the overall data has been done.
 - **Root-Cause Analysis**: Answering the "So What" for each insight is important to make it a meaninful actionable for the senior leaders of a company.
 
-## Author & Contact: 
+## Author & Contact
 Kunika Verma
 
 Aspiring Business Intelligence and Data Analyst
